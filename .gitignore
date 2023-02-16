@@ -1,2 +1,4 @@
 node_modules/
 test.md
+package-lock.json
+package.json
